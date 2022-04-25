@@ -35,5 +35,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorareda&theme=dracula&hide_langs_below=1" />
 
 
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif>
+<br>
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="30">
