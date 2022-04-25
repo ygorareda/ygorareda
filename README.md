@@ -1,72 +1,39 @@
-# Welcome!
+<h1 align = "center"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true width="30"> Welcome</h1>
+
+
+<div align = "Center" >
+<a href="mailto:ygorareda@gmail.com" ><code><img src="https://img.shields.io/badge/-ygorareda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com"></code></a>
+<a href="https://www.linkedin.com/in/ygor-borges-ar%C3%AAda-06934b186/"><code><img src="https://img.shields.io/badge/-YgorBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YgorBorges/"></code></a>
+<a href="https://twitter.com/ygor_areda"><code><img src="https://img.shields.io/badge/-@ygor_areda-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ygor_areda"></code></a>
 
  
+<h2 align = "center"> About me ! </h2>
 
-## I'm (Ygor Borges)!
-
- 
-
-:computer: I'm Back-End Developer!
+:computer: I'm 21 years old C# Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning how to write a compiler.
 
- 
+🎮 I'm passionate about games
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/ygorareda)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)](https://www.linkedin.com/in/ygor-borges-ar%C3%AAda-06934b186/)
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
+❤ Thanks for visiting and enjoy it!! o/
 
 
-LINK_GIT = https://github.com/ygorareda.
+<h1> Languages & Tools 👨‍💻 🛠: </h1>
 
-Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
+<code><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 
-Emblemas.
-Para obter emblemas acesse o link abaixo:
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ygorareda&show_icons=true&theme=dracula&line_height=27" /> 
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile
+<br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorareda&theme=dracula&hide_langs_below=1" />
 
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
 
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
 
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
--  Agora basta copiar para seu README e a mágica acontece.
-
-Blocos
--  Para adicionar blocos, temos varias opções no link abaixo:
-
-https://github.com/anuraghazra/github-readme-stats#themes
-
-- Após escolher seu bloco copie a URL e cole em seu README:
-
-[![ygorareda GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/ygorareda/github-readme-stats)
-
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
-
-GIF
-- Encontre o gif que mais combina com você nesse link:
-
-https://github.com/TheDudeThatCode/TheDudeThatCode
-
-*OBS deixo abaixo um exemplo para ser usado:
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-Imagem
-1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
-
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif width="30">
