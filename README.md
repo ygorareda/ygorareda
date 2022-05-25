@@ -13,7 +13,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning how to write a compiler.
+:books: I’m currently learning C#.
 
 🎮 I'm passionate about games
 
