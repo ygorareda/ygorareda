@@ -9,11 +9,11 @@
  
 <h2 align = "center"> About me ! </h2>
 
-:computer: I'm 21 years old C# Back-End Developer!
+:computer: I'm 23 years old C# Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning C#.
+:books: I’m currently learning GO.
 
 🎮 I'm passionate about games
 
