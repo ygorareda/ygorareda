@@ -9,7 +9,7 @@
  
 <h2 align = "center"> About me ! </h2>
 
-:computer: I'm 23 years old C# Back-End Developer!
+:computer: I'm 23 years C#/Golang Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
